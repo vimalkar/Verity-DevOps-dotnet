@@ -27,11 +27,11 @@ namespace sample_ui_pipeline_v1_tests
             var data = _testService.GetById(1);
             
             /** Success Case **/
-            Assert.That(data, Is.Not.EqualTo(string.Empty));
+            //Assert.That(data, Is.Not.EqualTo(string.Empty));
 
 
             /** Fail Case **/
-            //Assert.That(data, Is.EqualTo(string.Empty));
+            Assert.That(data, Is.EqualTo(string.Empty));
 
 
         }
