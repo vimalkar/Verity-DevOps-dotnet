@@ -1,1 +1,1 @@
-# Verity-DevOps-dotnet
+# Please discuss with your faculty for usage
