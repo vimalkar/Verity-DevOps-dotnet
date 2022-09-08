@@ -1,2 +1,2 @@
 
-  [{"name":"Prod-Container","imageUri":"gpvs.jfrog.io/gaurav123/gaurav123:latest"}]
+  [{"name":"AppContainerDefinition","imageUri":"gpvs.jfrog.io/gaurav123/gaurav123:latest"}]
